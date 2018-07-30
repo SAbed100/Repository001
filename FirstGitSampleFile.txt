@@ -1,1 +1,3 @@
 This is the first entry in my FirstGitSampleFile
+
+This is the second entry in my FirstGitSampleFile
